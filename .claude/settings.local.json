@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(pip *)",
+      "Bash(curl *)",
+      "Bash(mkdir *)",
+      "Bash(cat *)",
+      "Bash(cp *)",
+      "Bash(ls *)"
+    ]
+  },
+  "skills": [
+    {
+      "name": "generate-infographic",
+      "path": ".claude/skills/generate-infographic.md",
+      "description": "通过多轮问答收集信息图需求",
+      "triggers": ["/generate-infographic", "生成信息图", "设计信息图"]
+    }
+  ]
+}
