@@ -1,0 +1,1 @@
+"""Tests for the infographics_agent package."""

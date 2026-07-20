@@ -1,0 +1,10 @@
+# 安装方式（推荐开发安装）
+# pip install -e .
+
+# 或从 PyPI 安装
+# infographics-agent>=0.2.0
+
+# 运行时依赖
+requests>=2.31.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
