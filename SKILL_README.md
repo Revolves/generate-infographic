@@ -22,16 +22,12 @@
 ### 2. 安装 Python 依赖
 
 ```bash
-pip install infographics-agent
-```
-
-或从源码安装：
-
-```bash
-git clone https://github.com/your-username/infographics-agent.git
-cd infographics-agent
+git clone https://github.com/Revolves/generate-infographic.git
+cd generate-infographic
 pip install -e .
 ```
+
+> 注意：当前仅支持从源码安装，暂未发布到 PyPI。
 
 ### 3. 配置 API Key
 
